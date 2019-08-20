@@ -1,0 +1,21 @@
+2019-08-20T15:54:01.794Z - [error]: No token
+2019-08-20T15:57:17.655Z - [error]: No token
+2019-08-20T15:57:54.633Z - [error]: No token
+2019-08-20T15:58:20.633Z - [error]: No token
+2019-08-20T15:58:40.788Z - [error]: No token
+2019-08-20T15:59:36.034Z - [error]: No token
+2019-08-20T16:02:26.215Z - [error]: No token
+2019-08-20T16:03:51.085Z - [error]: No token
+2019-08-20T16:04:22.705Z - [error]: No token
+2019-08-20T16:04:56.069Z - [error]: No token
+2019-08-20T16:12:38.648Z - [error]: No user
+2019-08-20T16:13:58.570Z - [error]: No user
+2019-08-20T16:19:59.525Z - [error]: No token
+2019-08-20T16:23:18.356Z - [error]: User validation failed: password: Path `password` is required., username: Path `username` is required.
+2019-08-20T16:58:39.576Z - [error]: obj.toObject is not a function
+2019-08-20T16:59:04.070Z - [error]: obj.toObject is not a function
+2019-08-20T17:03:23.842Z - [error]: this.mapDataUpdate is not a function
+2019-08-20T17:04:01.234Z - [error]: this.mapDataUpdate is not a function
+2019-08-20T17:06:03.439Z - [error]: Assignment to constant variable.
+2019-08-20T17:07:35.539Z - [error]: this.mapDataUpdate is not a function
+2019-08-20T17:07:54.451Z - [error]: this.mapDataUpdate is not a function

@@ -1,0 +1,303 @@
+2019-08-20T13:09:10.287Z - [info]: Listen port %s
+2019-08-20T13:10:14.140Z - [info]: Listen port %s
+2019-08-20T13:10:51.757Z - [info]: Listen port %s
+2019-08-20T13:11:04.243Z - [info]: Listen port %s
+2019-08-20T13:11:23.077Z - [info]: Listen port %s
+2019-08-20T13:11:41.885Z - [info]: Listen port %s
+2019-08-20T13:12:06.477Z - [info]: Listen port %s
+2019-08-20T13:14:52.080Z - [info]: Listen port %s
+2019-08-20T13:15:01.901Z - [info]: Listen port %s
+2019-08-20T13:15:15.123Z - [info]: Listen port %s
+2019-08-20T13:15:33.431Z - [info]: Listen port %s
+2019-08-20T13:15:44.282Z - [info]: Listen port %s
+2019-08-20T13:16:07.559Z - [info]: Listen port %s
+2019-08-20T13:16:49.316Z - [info]: Listen port %s
+2019-08-20T13:17:50.899Z - [info]: Listen port %s
+2019-08-20T13:18:17.338Z - [info]: Listen port %s
+2019-08-20T13:20:29.752Z - [info]: Listen port %s
+2019-08-20T13:21:55.789Z - [info]: Listen port %s
+2019-08-20T13:22:46.007Z - [info]: Listen port %s
+2019-08-20T13:24:45.060Z - [info]: Listen port %s
+2019-08-20T13:25:55.262Z - [info]: Listen port %s
+2019-08-20T13:26:05.569Z - [info]: Listen port %s
+2019-08-20T13:39:29.820Z - [info]: Listen port %s
+2019-08-20T13:40:03.536Z - [info]: Listen port %s
+2019-08-20T13:40:09.070Z - [info]: Listen port %s
+2019-08-20T13:49:09.640Z - [info]: Listen port %s
+2019-08-20T13:49:45.222Z - [info]: Listen port %s
+2019-08-20T13:49:53.174Z - [info]: Listen port %s
+2019-08-20T13:50:25.687Z - [info]: Listen port %s
+2019-08-20T13:50:37.472Z - [info]: Listen port %s
+2019-08-20T13:51:57.612Z - [info]: Listen port %s
+2019-08-20T13:53:01.565Z - [info]: Listen port %s
+2019-08-20T13:55:04.068Z - [info]: Listen port %s
+2019-08-20T13:55:16.525Z - [info]: Listen port %s
+2019-08-20T13:55:46.480Z - [info]: Listen port %s
+2019-08-20T13:58:25.592Z - [info]: Listen port %s
+2019-08-20T13:59:23.237Z - [info]: Listen port %s
+2019-08-20T14:00:21.756Z - [info]: Listen port %s
+2019-08-20T14:00:53.198Z - [info]: Listen port %s
+2019-08-20T14:02:52.657Z - [info]: Listen port %s
+2019-08-20T14:02:54.996Z - [info]: Listen port %s
+2019-08-20T14:03:03.535Z - [info]: Listen port %s
+2019-08-20T14:03:09.928Z - [info]: Listen port %s
+2019-08-20T14:03:12.830Z - [info]: Listen port %s
+2019-08-20T14:03:53.591Z - [info]: Listen port %s
+2019-08-20T14:04:03.683Z - [info]: Listen port %s
+2019-08-20T14:15:21.225Z - [info]: Listen port %s
+2019-08-20T14:16:33.438Z - [info]: Listen port %s
+2019-08-20T14:16:44.116Z - [info]: Listen port %s
+2019-08-20T14:17:26.600Z - [info]: Listen port %s
+2019-08-20T14:18:35.891Z - [info]: Listen port %s
+2019-08-20T14:21:47.819Z - [info]: Listen port %s
+2019-08-20T14:47:20.058Z - [info]: Listen port %s
+2019-08-20T15:06:34.176Z - [info]: Listen port %s
+2019-08-20T15:34:04.885Z - [info]: Listen port %s
+2019-08-20T15:35:12.333Z - [info]: Listen port %s
+2019-08-20T15:38:39.089Z - [info]: Listen port %s
+2019-08-20T15:38:54.028Z - [info]: Listen port %s
+2019-08-20T15:44:12.322Z - [info]: Listen port %s
+2019-08-20T15:45:51.594Z - [info]: Listen port %s
+2019-08-20T15:46:11.761Z - [info]: Listen port %s
+2019-08-20T15:47:24.639Z - [info]: Listen port %s
+2019-08-20T15:47:39.710Z - [info]: { _id: 5d54e987277dd70fa05e34b8,
+  name: 'Lê Quang Sáng',
+  email: 'lqsang19953@gmail.com',
+  username: 'asdasd',
+  password:
+   '$2a$10$o9bVP4oIGmSUooTXC91FHuKKDRfElpnwq0COa1tsQ5fiJBGBOerXy',
+  createdAt: 2019-08-15T05:11:35.824Z,
+  updatedAt: 2019-08-15T05:11:35.824Z,
+  __v: 0 },{ _id: 5d551f0e63e70011381226e0,
+  name: 'test',
+  email: 'test@gmail.com',
+  username: 'test',
+  password:
+   '$2a$10$o2lacTrlAacMn.4SlHXYrejdoT2oAxzUp9k3GnXDs.FBrqRrnUPHW',
+  createdAt: 2019-08-15T08:59:58.809Z,
+  updatedAt: 2019-08-15T08:59:58.809Z,
+  __v: 0 }
+2019-08-20T15:48:59.288Z - [info]: Listen port %s
+2019-08-20T15:50:05.997Z - [info]: Listen port %s
+2019-08-20T15:51:21.545Z - [info]: Listen port %s
+2019-08-20T15:51:41.232Z - [info]: Listen port %s
+2019-08-20T15:52:14.399Z - [info]: Listen port %s
+2019-08-20T15:52:49.481Z - [info]: Listen port %s
+2019-08-20T15:53:24.789Z - [info]: Listen port %s
+2019-08-20T15:53:47.365Z - [info]: Listen port %s
+2019-08-20T15:54:01.794Z - [error]: No token
+2019-08-20T15:56:48.601Z - [info]: Listen port %s
+2019-08-20T15:57:17.655Z - [error]: No token
+2019-08-20T15:57:49.563Z - [info]: Listen port %s
+2019-08-20T15:57:54.633Z - [error]: No token
+2019-08-20T15:58:15.253Z - [info]: Listen port %s
+2019-08-20T15:58:20.633Z - [error]: No token
+2019-08-20T15:58:20.680Z - [info]: { _id: 5d54e987277dd70fa05e34b8,
+  name: 'Lê Quang Sáng',
+  email: 'lqsang19953@gmail.com',
+  username: 'asdasd',
+  password:
+   '$2a$10$o9bVP4oIGmSUooTXC91FHuKKDRfElpnwq0COa1tsQ5fiJBGBOerXy',
+  createdAt: 2019-08-15T05:11:35.824Z,
+  updatedAt: 2019-08-15T05:11:35.824Z,
+  __v: 0 },{ _id: 5d551f0e63e70011381226e0,
+  name: 'test',
+  email: 'test@gmail.com',
+  username: 'test',
+  password:
+   '$2a$10$o2lacTrlAacMn.4SlHXYrejdoT2oAxzUp9k3GnXDs.FBrqRrnUPHW',
+  createdAt: 2019-08-15T08:59:58.809Z,
+  updatedAt: 2019-08-15T08:59:58.809Z,
+  __v: 0 }
+2019-08-20T15:58:38.462Z - [info]: Listen port %s
+2019-08-20T15:58:40.788Z - [error]: No token
+2019-08-20T15:59:21.437Z - [info]: Listen port %s
+2019-08-20T15:59:36.034Z - [error]: No token
+2019-08-20T16:01:25.933Z - [info]: Listen port %s
+2019-08-20T16:02:15.317Z - [info]: Listen port %s
+2019-08-20T16:02:26.215Z - [error]: No token
+2019-08-20T16:02:41.584Z - [info]: Listen port %s
+2019-08-20T16:03:10.107Z - [info]: Listen port %s
+2019-08-20T16:03:12.844Z - [info]: Listen port %s
+2019-08-20T16:03:27.451Z - [info]: Listen port %s
+2019-08-20T16:03:49.146Z - [info]: Listen port %s
+2019-08-20T16:03:51.085Z - [error]: No token
+2019-08-20T16:04:17.856Z - [info]: Listen port %s
+2019-08-20T16:04:22.705Z - [error]: No token
+2019-08-20T16:04:52.410Z - [info]: Listen port %s
+2019-08-20T16:04:56.069Z - [error]: No token
+2019-08-20T16:10:06.123Z - [info]: Listen port %s
+2019-08-20T16:11:49.863Z - [info]: Listen port %s
+2019-08-20T16:12:29.132Z - [info]: Listen port %s
+2019-08-20T16:12:38.648Z - [error]: No user
+2019-08-20T16:13:53.490Z - [info]: Listen port %s
+2019-08-20T16:13:58.570Z - [error]: No user
+2019-08-20T16:14:51.345Z - [info]: { _id: 5d54e987277dd70fa05e34b8,
+  name: 'Lê Quang Sáng',
+  email: 'lqsang19953@gmail.com',
+  username: 'asdasd',
+  password:
+   '$2a$10$o9bVP4oIGmSUooTXC91FHuKKDRfElpnwq0COa1tsQ5fiJBGBOerXy',
+  createdAt: 2019-08-15T05:11:35.824Z,
+  updatedAt: 2019-08-15T05:11:35.824Z,
+  __v: 0 },{ _id: 5d551f0e63e70011381226e0,
+  name: 'test',
+  email: 'test@gmail.com',
+  username: 'test',
+  password:
+   '$2a$10$o2lacTrlAacMn.4SlHXYrejdoT2oAxzUp9k3GnXDs.FBrqRrnUPHW',
+  createdAt: 2019-08-15T08:59:58.809Z,
+  updatedAt: 2019-08-15T08:59:58.809Z,
+  __v: 0 }
+2019-08-20T16:15:18.316Z - [info]: Listen port %s
+2019-08-20T16:15:55.683Z - [info]: Listen port %s
+2019-08-20T16:15:59.802Z - [info]: { _id: 5d54e987277dd70fa05e34b8,
+  name: 'Lê Quang Sáng',
+  email: 'lqsang19953@gmail.com',
+  username: 'asdasd',
+  password:
+   '$2a$10$o9bVP4oIGmSUooTXC91FHuKKDRfElpnwq0COa1tsQ5fiJBGBOerXy',
+  createdAt: 2019-08-15T05:11:35.824Z,
+  updatedAt: 2019-08-15T05:11:35.824Z,
+  __v: 0 },{ _id: 5d551f0e63e70011381226e0,
+  name: 'test',
+  email: 'test@gmail.com',
+  username: 'test',
+  password:
+   '$2a$10$o2lacTrlAacMn.4SlHXYrejdoT2oAxzUp9k3GnXDs.FBrqRrnUPHW',
+  createdAt: 2019-08-15T08:59:58.809Z,
+  updatedAt: 2019-08-15T08:59:58.809Z,
+  __v: 0 }
+2019-08-20T16:16:18.925Z - [info]: Listen port %s
+2019-08-20T16:16:25.015Z - [info]: Listen port %s
+2019-08-20T16:16:41.923Z - [info]: { _id: 5d54e987277dd70fa05e34b8,
+  name: 'Lê Quang Sáng',
+  email: 'lqsang19953@gmail.com',
+  username: 'asdasd',
+  password:
+   '$2a$10$o9bVP4oIGmSUooTXC91FHuKKDRfElpnwq0COa1tsQ5fiJBGBOerXy',
+  createdAt: 2019-08-15T05:11:35.824Z,
+  updatedAt: 2019-08-15T05:11:35.824Z,
+  __v: 0 },{ _id: 5d551f0e63e70011381226e0,
+  name: 'test',
+  email: 'test@gmail.com',
+  username: 'test',
+  password:
+   '$2a$10$o2lacTrlAacMn.4SlHXYrejdoT2oAxzUp9k3GnXDs.FBrqRrnUPHW',
+  createdAt: 2019-08-15T08:59:58.809Z,
+  updatedAt: 2019-08-15T08:59:58.809Z,
+  __v: 0 }
+2019-08-20T16:17:05.846Z - [info]: Listen port %s
+2019-08-20T16:17:38.217Z - [info]: Listen port %s
+2019-08-20T16:17:46.432Z - [info]: Listen port %s
+2019-08-20T16:18:43.672Z - [info]: Listen port %s
+2019-08-20T16:18:46.802Z - [info]: Listen port %s
+2019-08-20T16:19:02.062Z - [info]: Listen port %s
+2019-08-20T16:19:07.480Z - [info]: { _id: 5d54e987277dd70fa05e34b8,
+  name: 'Lê Quang Sáng',
+  email: 'lqsang19953@gmail.com',
+  username: 'asdasd',
+  password:
+   '$2a$10$o9bVP4oIGmSUooTXC91FHuKKDRfElpnwq0COa1tsQ5fiJBGBOerXy',
+  createdAt: 2019-08-15T05:11:35.824Z,
+  updatedAt: 2019-08-15T05:11:35.824Z,
+  __v: 0 },{ _id: 5d551f0e63e70011381226e0,
+  name: 'test',
+  email: 'test@gmail.com',
+  username: 'test',
+  password:
+   '$2a$10$o2lacTrlAacMn.4SlHXYrejdoT2oAxzUp9k3GnXDs.FBrqRrnUPHW',
+  createdAt: 2019-08-15T08:59:58.809Z,
+  updatedAt: 2019-08-15T08:59:58.809Z,
+  __v: 0 }
+2019-08-20T16:19:59.525Z - [error]: No token
+2019-08-20T16:21:10.042Z - [info]: Listen port %s
+2019-08-20T16:22:59.364Z - [info]: Listen port %s
+2019-08-20T16:23:11.187Z - [info]: Listen port %s
+2019-08-20T16:23:18.356Z - [error]: User validation failed: password: Path `password` is required., username: Path `username` is required.
+2019-08-20T16:24:39.009Z - [info]: { _id: 5d5c1ec69bf7ee11546fcf77,
+  username: 'lqsang1995',
+  password:
+   '$2a$10$ZBJ2xefyq/WDfZSeqDvw7ubt7WhPmWbS7F6XJFw7dqw.vdeSH0/xC',
+  createdAt: 2019-08-20T16:24:38.757Z,
+  updatedAt: 2019-08-20T16:24:38.757Z,
+  __v: 0 }
+2019-08-20T16:27:01.522Z - [info]: Listen port %s
+2019-08-20T16:27:34.847Z - [info]: Listen port %s
+2019-08-20T16:27:43.741Z - [info]: Listen port %s
+2019-08-20T16:27:57.314Z - [info]: Listen port %s
+2019-08-20T16:37:48.122Z - [info]: Listen port %s
+2019-08-20T16:46:15.318Z - [info]: null
+2019-08-20T16:50:26.914Z - [info]: Listen port %s
+2019-08-20T16:50:45.162Z - [info]: { _id: null,
+  __v: 0,
+  createdAt: 2019-08-20T16:46:15.297Z,
+  name: 'Le Quang Sang',
+  updatedAt: 2019-08-20T16:46:15.297Z }
+2019-08-20T16:53:07.906Z - [info]: Listen port %s
+2019-08-20T16:53:39.318Z - [info]: Listen port %s
+2019-08-20T16:53:43.531Z - [info]: { _id: null,
+  __v: 0,
+  createdAt: 2019-08-20T16:46:15.297Z,
+  name: 'Le Quang Sang',
+  updatedAt: 2019-08-20T16:50:45.139Z }
+2019-08-20T16:54:15.692Z - [info]: Listen port %s
+2019-08-20T16:54:20.174Z - [info]: { _id: null,
+  __v: 0,
+  createdAt: 2019-08-20T16:46:15.297Z,
+  name: 'Le Quang Sang',
+  updatedAt: 2019-08-20T16:53:43.502Z }
+2019-08-20T16:58:19.783Z - [info]: Listen port %s
+2019-08-20T16:58:27.440Z - [info]: { _id: null,
+  __v: 0,
+  createdAt: 2019-08-20T16:46:15.297Z,
+  name: 'Le Quang Sang',
+  updatedAt: 2019-08-20T16:54:20.152Z }
+2019-08-20T16:58:35.447Z - [info]: Listen port %s
+2019-08-20T16:58:39.576Z - [error]: obj.toObject is not a function
+2019-08-20T16:58:59.876Z - [info]: Listen port %s
+2019-08-20T16:59:04.070Z - [error]: obj.toObject is not a function
+2019-08-20T16:59:40.326Z - [info]: Listen port %s
+2019-08-20T16:59:44.494Z - [info]: { _id: null,
+  __v: 0,
+  createdAt: 2019-08-20T16:46:15.297Z,
+  name: 'Le Quang Sang',
+  updatedAt: 2019-08-20T16:58:27.421Z }
+2019-08-20T17:00:10.939Z - [info]: Listen port %s
+2019-08-20T17:02:15.525Z - [info]: Listen port %s
+2019-08-20T17:02:52.796Z - [info]: Listen port %s
+2019-08-20T17:02:55.467Z - [info]: Listen port %s
+2019-08-20T17:03:23.842Z - [error]: this.mapDataUpdate is not a function
+2019-08-20T17:03:57.074Z - [info]: Listen port %s
+2019-08-20T17:04:01.234Z - [error]: this.mapDataUpdate is not a function
+2019-08-20T17:05:07.904Z - [info]: Listen port %s
+2019-08-20T17:05:15.721Z - [info]: Listen port %s
+2019-08-20T17:05:19.853Z - [info]: null
+2019-08-20T17:05:59.200Z - [info]: Listen port %s
+2019-08-20T17:06:03.439Z - [error]: Assignment to constant variable.
+2019-08-20T17:06:19.028Z - [info]: Listen port %s
+2019-08-20T17:06:25.393Z - [info]: null
+2019-08-20T17:06:38.045Z - [info]: Listen port %s
+2019-08-20T17:06:43.806Z - [info]: null
+2019-08-20T17:07:27.198Z - [info]: Listen port %s
+2019-08-20T17:07:35.539Z - [error]: this.mapDataUpdate is not a function
+2019-08-20T17:07:50.170Z - [info]: Listen port %s
+2019-08-20T17:07:54.451Z - [error]: this.mapDataUpdate is not a function
+2019-08-20T17:08:05.025Z - [info]: Listen port %s
+2019-08-20T17:08:09.388Z - [info]: null
+2019-08-20T17:08:29.044Z - [info]: Listen port %s
+2019-08-20T17:08:33.297Z - [info]: null
+2019-08-20T17:11:16.143Z - [info]: Listen port %s
+2019-08-20T17:11:29.606Z - [info]: Listen port %s
+2019-08-20T17:11:55.772Z - [info]: Listen port %s
+2019-08-20T17:12:28.502Z - [info]: Listen port %s
+2019-08-20T17:12:54.157Z - [info]: Listen port %s
+2019-08-20T17:13:01.671Z - [info]: Listen port %s
+2019-08-20T17:13:27.197Z - [info]: Listen port %s
+2019-08-20T17:18:05.048Z - [info]: Listen port %s
+2019-08-20T17:21:15.338Z - [info]: Listen port %s
+2019-08-20T17:23:15.264Z - [info]: Listen port %s
+2019-08-20T17:23:28.089Z - [info]: Listen port %s
+2019-08-20T17:23:39.708Z - [info]: Listen port %s
+2019-08-20T17:24:21.926Z - [info]: Listen port %s
+2019-08-20T17:24:48.030Z - [info]: Listen port %s
