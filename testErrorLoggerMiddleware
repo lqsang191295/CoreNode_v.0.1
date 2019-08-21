@@ -31,7 +31,8 @@ app.get('/', async (req, res, next) => {
 });
 
 const test = async (req, res, next) => {
-    const a = b + c;
+    const a = b + c; // cố tình làm lỗi
+    // throw new Error('Loi oke ne'); // test throw Error k chạy qua catch của hàm ErrorLoggerMiddleware
     const data = await axios.get('https://dog.ceo/api/breeds/list/all').data;
     res.send({data});
     console.log('Router action')
