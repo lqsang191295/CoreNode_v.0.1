@@ -14,6 +14,10 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 app.use(routers);
 
+app.use((err, req, res, next) => {
+    logger.error(JSON.stringify(err));
+})
+
 app.listen(PORT, () => {
     logger.info('Listen port %s', PORT)
 })

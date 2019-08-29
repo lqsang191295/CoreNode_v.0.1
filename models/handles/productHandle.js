@@ -1,4 +1,4 @@
-const Product = require('../');
+const { Product } = require('../');
 
 const productHandle = {
     get: () => {

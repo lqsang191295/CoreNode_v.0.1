@@ -26,17 +26,8 @@ const userController = {
         try {
             const request = req.body;
             const dataUser = {...req.dataUser};
-            //const dataPost = this.mapDataUpdate(dataUser);
-            console.log(333333, request, dataUser);
-            // const dataUpdate = {
-            //     ...dataUser,
-            //     ...request
-            // }
-            // console.log(dataUpdate);
-            // dataUpdate = this.mapDataUpdate(dataUpdate);
-            // console.log(1111111, dataUpdate);
-            // const data = await userHandle.update(dataUpdate);
-            Response.success(res, null);
+            const data = await userHandle.update(dataUser);
+            Response.success(res, data);
         } catch(err) {
             Response.error(res, err);
         }
@@ -44,7 +35,7 @@ const userController = {
 
     delete: () => async (req, res, next) => {
         try {
-            const {_id} = req.body || {};
+            const _id = req.params.id;
             const data = await userHandle.delete(_id);
             Response.success(res, data);
         } catch(err) {
@@ -55,7 +46,7 @@ const userController = {
         try {
             return await userHandle.findOneById(_id);
         } catch(err) {
-            Response.error(res, err);
+            return err;
         }
     },
     mapDataUpdate: (data) => {

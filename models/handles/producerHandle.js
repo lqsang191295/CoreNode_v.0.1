@@ -1,4 +1,4 @@
-const Producer = require('../');
+const { Producer } = require('../');
 
 const producerHandle = {
     get: () => {

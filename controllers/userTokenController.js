@@ -1,20 +1,12 @@
-const { categoryHandle } = require('../models/handles');
+const { userTokenHandle } = require('../models/handles');
 const Response = require('../utils/response');
 
-const categoryController = {
-    get: () => async (req, res, next) => {
-        try {
-            const data = await categoryHandle.get();
-            Response.success(res, data);
-        } catch(err) {
-            Response.error(res, err);
-        }
-    },
-    
+const userTokenController = {
+
     create: () => async (req, res, next) => {
         try {
             const requestData = req.body;
-            const data = await categoryHandle.create(requestData);
+            const data = await userTokenHandle.create(requestData);
             Response.success(res, data);
         } catch(err) {
             Response.error(res, err);
@@ -24,8 +16,8 @@ const categoryController = {
     update: () => async (req, res, next) => {
         try {
             const request = req.body;
-            const data = await categoryHandle.update(request);
-            Response.success(res, data);
+           
+            Response.success(res, null);
         } catch(err) {
             Response.error(res, err);
         }
@@ -33,8 +25,8 @@ const categoryController = {
 
     delete: () => async (req, res, next) => {
         try {
-            const _id = req.params.id;
-            const data = await categoryHandle.delete(_id);
+            const {_id} = req.body || {};
+            const data = await userTokenHandle.delete(_id);
             Response.success(res, data);
         } catch(err) {
             Response.error(res, err);
@@ -42,11 +34,11 @@ const categoryController = {
     },
     findOneById: async (_id) => {
         try {
-            return await categoryController.findOneById(_id);
+            return await userTokenHandle.findOneById(_id);
         } catch(err) {
             Response.error(res, err);
         }
     }
 }
 
-module.exports = categoryController;
+module.exports = userTokenController;

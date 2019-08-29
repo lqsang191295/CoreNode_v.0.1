@@ -1,10 +1,10 @@
-const {productHandle} = require('../models/handles');
+const { producerHandle } = require('../models/handles');
 const Response = require('../utils/response');
 
-const productController = {
+const producerController = {
     get: () => async (req, res, next) => {
         try {
-            const data = await productHandle.get();
+            const data = await producerHandle.get();
             Response.success(res, data);
         } catch(err) {
             Response.error(res, err);
@@ -14,7 +14,7 @@ const productController = {
     create: () => async (req, res, next) => {
         try {
             const requestData = req.body;
-            const data = await productHandle.create(requestData);
+            const data = await producerHandle.create(requestData);
             Response.success(res, data);
         } catch(err) {
             Response.error(res, err);
@@ -24,7 +24,7 @@ const productController = {
     update: () => async (req, res, next) => {
         try {
             const requestData = req.body;
-            const data = await productHandle.update(requestData);
+            const data = await producerHandle.update(requestData);
             Response.success(res, data);
         } catch(err) {
             Response.error(res, err);
@@ -33,8 +33,8 @@ const productController = {
 
     delete: () => async (req, res, next) => {
         try {
-            const {_id} = req.body || {};
-            const data = await productHandle.delete(_id);
+            const _id = req.params.id;
+            const data = await producerHandle.delete(_id);
             Response.success(res, data);
         } catch(err) {
             Response.error(res, err);
@@ -42,11 +42,11 @@ const productController = {
     },
     findOneById: async (_id) => {
         try {
-            return await productHandle.findOneById(_id);
+            return await producerHandle.findOneById(_id);
         } catch(err) {
             Response.error(res, err);
         }
     }
 }
 
-module.exports = productController;
+module.exports = producerController;

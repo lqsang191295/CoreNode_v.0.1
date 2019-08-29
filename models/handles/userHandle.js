@@ -16,6 +16,9 @@ const userHandle = {
     update: (data) => {
         const { _id } = data;
         return User.findOneAndUpdate({_id}, data, {upsert:true});
+    },
+    findOneByUsername: (username) => {
+        return User.findOne({username});
     }
 }
 

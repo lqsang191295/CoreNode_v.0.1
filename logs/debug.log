@@ -1,21 +1,44 @@
-2019-08-20T15:54:01.794Z - [error]: No token
-2019-08-20T15:57:17.655Z - [error]: No token
-2019-08-20T15:57:54.633Z - [error]: No token
-2019-08-20T15:58:20.633Z - [error]: No token
-2019-08-20T15:58:40.788Z - [error]: No token
-2019-08-20T15:59:36.034Z - [error]: No token
-2019-08-20T16:02:26.215Z - [error]: No token
-2019-08-20T16:03:51.085Z - [error]: No token
-2019-08-20T16:04:22.705Z - [error]: No token
-2019-08-20T16:04:56.069Z - [error]: No token
-2019-08-20T16:12:38.648Z - [error]: No user
-2019-08-20T16:13:58.570Z - [error]: No user
-2019-08-20T16:19:59.525Z - [error]: No token
-2019-08-20T16:23:18.356Z - [error]: User validation failed: password: Path `password` is required., username: Path `username` is required.
-2019-08-20T16:58:39.576Z - [error]: obj.toObject is not a function
-2019-08-20T16:59:04.070Z - [error]: obj.toObject is not a function
-2019-08-20T17:03:23.842Z - [error]: this.mapDataUpdate is not a function
-2019-08-20T17:04:01.234Z - [error]: this.mapDataUpdate is not a function
-2019-08-20T17:06:03.439Z - [error]: Assignment to constant variable.
-2019-08-20T17:07:35.539Z - [error]: this.mapDataUpdate is not a function
-2019-08-20T17:07:54.451Z - [error]: this.mapDataUpdate is not a function
+2019-08-22T17:09:44.159Z - [error]: [object Object]
+2019-08-22T17:09:44.163Z - [error]: {"message":"Callback must be a function, got [object Object]","name":"MongooseError"}
+2019-08-22T17:12:17.355Z - [error]: [object Object]
+2019-08-22T17:12:17.362Z - [error]: {"message":"Callback must be a function, got [object Object]","name":"MongooseError"}
+2019-08-22T17:12:42.641Z - [error]: [object Object]
+2019-08-22T17:12:42.649Z - [error]: {"message":"Callback must be a function, got [object Object]","name":"MongooseError"}
+2019-08-22T17:16:37.400Z - [error]: No token
+2019-08-22T17:16:49.979Z - [error]: No token
+2019-08-22T17:17:55.099Z - [error]: No token
+2019-08-22T17:20:04.931Z - [error]: {}
+2019-08-22T17:20:38.812Z - [error]: {}
+2019-08-22T17:29:48.897Z - [error]: No token
+2019-08-22T17:30:18.364Z - [error]: No token
+2019-08-22T17:31:14.437Z - [error]: No token
+2019-08-22T17:32:10.185Z - [error]: No token
+2019-08-22T17:32:52.624Z - [error]: No token
+2019-08-22T17:33:06.150Z - [error]: No token
+2019-08-22T17:35:44.519Z - [error]: No token
+2019-08-22T17:35:46.994Z - [error]: No token
+2019-08-26T16:06:11.000Z - [error]: {"name":"JsonWebTokenError","message":"jwt malformed"}
+2019-08-26T16:17:17.977Z - [error]: [object Object]
+2019-08-26T16:17:31.726Z - [error]: {}
+2019-08-26T16:17:44.570Z - [error]: {}
+2019-08-26T16:19:00.467Z - [error]: {}
+2019-08-26T16:19:44.575Z - [error]: {}
+2019-08-26T16:21:19.741Z - [error]: Cannot read property 'params' of undefined
+2019-08-26T16:24:15.735Z - [error]: Cannot read property 'params' of undefined
+2019-08-26T16:34:15.776Z - [error]: {"name":"JsonWebTokenError","message":"jwt malformed"}
+2019-08-28T00:35:55.905Z - [error]: Product validation failed: name: Path `name` is required.
+2019-08-28T00:48:58.192Z - [error]: val is not defined
+2019-08-28T00:50:32.523Z - [error]: val is not defined
+2019-08-28T00:50:36.624Z - [error]: val is not defined
+2019-08-28T01:04:01.180Z - [error]: Identifier 'x' has already been declared
+2019-08-28T01:04:07.856Z - [error]: Identifier 'x' has already been declared
+2019-08-28T01:04:31.196Z - [error]: Identifier 'x' has already been declared
+2019-08-28T01:04:31.202Z - [error]: Identifier 'x' has already been declared
+2019-08-28T01:04:49.380Z - [error]: Identifier 'x' has already been declared
+2019-08-28T01:05:21.893Z - [error]: Identifier 'x' has already been declared
+2019-08-28T01:05:55.436Z - [error]: Identifier 'x' has already been declared
+2019-08-28T01:05:59.223Z - [error]: Identifier 'x' has already been declared
+2019-08-28T01:17:59.029Z - [error]: this.mapdata is not a function
+2019-08-28T01:18:48.549Z - [error]: this.mapdata is not a function
+2019-08-28T01:19:12.521Z - [error]: this.mapdata is not a function
+2019-08-28T01:19:27.570Z - [error]: this.mapdata is not a function

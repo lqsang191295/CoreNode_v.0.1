@@ -17,8 +17,8 @@ const auth = async (req, res, next) => {
             req.dataUser = user;
             next();
         } else {
-            res.setHeader("Content-Type", "text/html")
-            return Response.error(res, 'No user');
+            Response.error(res, 'No user');
+            return 
         }
     } catch (err) {
         next(err);

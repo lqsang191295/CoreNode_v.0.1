@@ -2,18 +2,16 @@ const app = require('express')();
 const axios = require('axios')
 const PORT = 3000;
 
-const ErrorLoggerMiddleware = async (req, res, next) => {
+const ErrorLoggerMiddleware = fn => async (req, res, next) => {
     try {
         console.log('Start')
-        await next();
+        await fn();
         console.log('End')
     } catch (e) {
         // Log error
         console.log('Catch in Fn ErrorLoggerMiddleware', e);
     }
 }
-
-app.use(ErrorLoggerMiddleware);
 
 
 app.get('/', async (req, res, next) => {
@@ -41,6 +39,8 @@ app.get('/test', async (req, res, next) => {
     // Đoạn này test xem có chạy theo đúng thứ tự hay không
     await test(req, res, next);
 })
+
+app.get('/test1', ErrorLoggerMiddleware(test));
 
 app.listen(PORT, () => {
     console.log('Server is running at PORT',PORT);
